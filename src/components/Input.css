@@ -1,0 +1,14 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 10vw;
+}
+input{
+    height: 30px;
+    border-radius: 10px;
+}
+button{
+    height: 20px;
+    border-radius: 100px;
+}
